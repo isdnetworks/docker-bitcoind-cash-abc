@@ -26,5 +26,5 @@
 
 # bitcoind-cash-abc
 
-Bitcoin Core Linux build
+Bitcoin ABC Core Linux build
 
