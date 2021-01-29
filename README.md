@@ -8,7 +8,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
--	[`0.21.0`](https://github.com/isdnetworks/docker-bitcoind-cash-abc/blob/master/Dockerfile)
+-	[`0.22.12`](https://github.com/isdnetworks/docker-bitcoind-cash-abc/blob/master/Dockerfile)
 
 # Quick reference (cont.)
 
