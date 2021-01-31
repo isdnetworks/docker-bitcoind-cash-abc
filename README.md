@@ -24,7 +24,7 @@
 -	**Source of this description**:  
 	[docker-bitcoind-cash-abc repo's `/` directory](https://github.com/isdnetworks/docker-bitcoind-cash-abc) ([history](https://github.com/isdnetworks/docker-bitcoind-cash-abc/commits/master))  
 
-# bitcoind-cash-abc
+# bitcoind
 
 Bitcoin ABC Core Linux build
 
